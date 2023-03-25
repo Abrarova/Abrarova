@@ -43,7 +43,6 @@
 
 ---
 <h1>Pure CSS Tower of Hanoi</h1>
-<form>
     <div class="discs">
         <input id="one" type="text" tabindex="-1" readonly>
         <input name="one" type="radio" tabindex="-1" checked>

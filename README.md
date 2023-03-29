@@ -16,7 +16,7 @@
 
 ### About me
 - 🔬 I’m currently learning **Web3, GameDev**
-- 🎨 Know about my experiences and creative projects [0_0](cv-link)
+- 🎨 Know about my creative projects [0_0](https://www.behance.net/a14223a8)
 - 💬 Reach me by [Telegram](https://t.me/Gaunt_W), [email](mailto:vika.argent@gmail.com)
 - 🎙️ I speak Russian and English
 

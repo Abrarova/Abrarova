@@ -17,9 +17,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
    
-### My stat
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abrarova&theme=omni"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abrarova&theme=omni"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abrarova&theme=omni"/>
-</div>
+
